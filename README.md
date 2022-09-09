@@ -11,6 +11,6 @@
 - Edit appointment
 - Delete appointment
 
-![Image text](https://ibb.co/Sm8Yj2Z)
+[Image](https://imgur.com/7lAxTzn)
 
 ## Link DEMO :rocket: (https://idev-citas-mascotas-react.netlify.app)
